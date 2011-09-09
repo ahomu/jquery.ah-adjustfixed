@@ -2,7 +2,7 @@
 
 *A plugin position fixed with more adjustablity and fitting.*
 
-複数のinput要素(select, textarea含む)の入力値を同期します。CMSをはじめとして、システムの都合で同じ入力を繰り返さざるを得ない場合に有効です。
+指定した要素についてその親要素を基準として、なんとなく良い感じに位置をfixedします。詳しくはsample.htmlを参照してください。
 
 ##使い方 - Usage
 
